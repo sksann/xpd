@@ -3270,16 +3270,41 @@ http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u
 
 #EXTINF:-1 tvg-id="ExtasyHD.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/QEyOs2T.png" group-title="24/7 RED TRAFFIC",Extasy HD / Leo TV HD (576p)
 http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
-
-#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="24/7 RED TRAFFIC",Fashion TV Midnight Secrets (1080p)
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-
- 
-#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="24/7 RED TRAFFIC",FTV Midnight Secrets (SD)
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
  
 #EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="24/7 RED TRAFFIC",FTV Midnight Secrets (HD)
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetWoman.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="24/7 RED TRAFFIC",AdultIPTV.net Woman (720p)
+http://live.redtraffic.net/woman.m3u8
  
 #EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="24/7 RED TRAFFIC",FTV Midnight Secrets (UHD)
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-id="MyCamTVAnal.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="24/7 RED TRAFFIC",MyCamTV Anal
+http://live.mycamtv.com/anal.m3u8
+#EXTINF:-1 tvg-id="MyCamTVAsian.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="24/7 RED TRAFFIC",MyCamTV Asian
+http://live.mycamtv.com/asian.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBigAss.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="24/7 RED TRAFFIC",MyCamTV Big Ass
+http://live.mycamtv.com/defstream.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBigTits.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="24/7 RED TRAFFIC",MyCamTV Big Tits
+http://live.mycamtv.com/bigtits.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBlonde.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="24/7 RED TRAFFIC",MyCamTV Blonde
+http://live.mycamtv.com/blonde.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBrunette.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="24/7 RED TRAFFIC",MyCamTV Brunette
+http://live.mycamtv.com/brunette.m3u8
+#EXTINF:-1 tvg-id="MyCamTVEbony.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="24/7 RED TRAFFIC",MyCamTV Ebony
+http://live.mycamtv.com/medium.m3u8
+#EXTINF:-1 tvg-id="MyCamTVLatina.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="24/7 RED TRAFFIC",MyCamTV Latina
+http://live.mycamtv.com/latina.m3u8
+#EXTINF:-1 tvg-id="MyCamTVSkinny.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="24/7 RED TRAFFIC",MyCamTV Skinny
+http://live.mycamtv.com/arab.m3u8
+#EXTINF:-1 tvg-id="MyCamTVSquirt.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="24/7 RED TRAFFIC",MyCamTV Squirt
+http://live.mycamtv.com/squirt.m3u8
+#EXTINF:-1 tvg-id="MyCamTVWhite.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="24/7 RED TRAFFIC",MyCamTV White
+http://live.mycamtv.com/white.m3u8
+
+#EXTINF:-1 tvg-id="MiamiTVLatino.us" tvg-country="HISPAM" tvg-language="English" tvg-logo="https://i.imgur.com/Y5tUClU.png" group-title="24/7 RED TRAFFIC",Miami TV Latino (1080p)
+https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ou5afOB.jpg" group-title="24/7 RED TRAFFIC",Miami TV México (720p) [Not 24/7]
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+
